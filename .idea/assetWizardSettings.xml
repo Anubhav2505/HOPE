@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/access_time/baseline_access_time_24.xml" />
+                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialiconsround/login/round_login_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,7 +28,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="time" />
+                            <entry key="outputName" value="ic_round_login_24" />
                             <entry key="sourceFile" value="C:\Users\acer\Desktop\Hope-University-Blood-Donation-App--main" />
                           </map>
                         </option>

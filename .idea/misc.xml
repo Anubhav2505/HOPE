@@ -67,8 +67,9 @@
         <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/activity_back.xml" value="0.1213768115942029" />
         <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/activity_home.xml" value="0.11367753623188406" />
         <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/activity_main.xml" value="0.11367753623188406" />
-        <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/activity_main_layout.xml" value="0.21" />
+        <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/activity_main_layout.xml" value="0.17" />
         <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/activity_mainscreen.xml" value="0.11367753623188406" />
+        <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/activity_raise_blood_request.xml" value="0.22" />
         <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/activity_register.xml" value="0.17" />
         <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/activity_result_sa.xml" value="0.1213768115942029" />
         <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/activity_result_saneg.xml" value="0.1213768115942029" />
@@ -78,11 +79,15 @@
         <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/appointment_card.xml" value="0.21" />
         <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/donation_request_cardviewitem.xml" value="0.1213768115942029" />
         <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/events.xml" value="0.25" />
-        <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/events_cardviewitem.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/events_cardviewitem.xml" value="0.22" />
         <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/fragment_appointment.xml" value="0.25" />
-        <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/fragment_event.xml" value="0.1213768115942029" />
-        <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/fragment_home.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/fragment_event.xml" value="0.25" />
+        <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/nav_header.xml" value="0.22" />
+        <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/raise_request_cardview.xml" value="0.2" />
         <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/layout/slider_layout.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/menu/bottom_nav.xml" value="0.2" />
+        <entry key="..\:/Users/acer/Desktop/Hope-University-Blood-Donation-App--main/app/src/main/res/menu/nav_menu.xml" value="0.2" />
       </map>
     </option>
   </component>

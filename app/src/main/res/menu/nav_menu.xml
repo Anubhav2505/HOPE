@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+<item
+    android:title="Blood Request"
+    android:icon="@drawable/ic_baseline_pin_drop_24"
+    android:id="@+id/raiseRequest_ham" />
+
+    <item
+        android:title="Donate Blood"
+        android:icon="@drawable/ic_raserequesticon"
+        android:id="@+id/bookAppointment" />
+
+    <item
+        android:title="Self Asses"
+        android:icon="@drawable/ic_quicktesticon"
+        android:id="@+id/selfAsses" />
+
+    <item android:title="About us">
+
+        <menu>
+
+            <item
+                android:icon="@drawable/ic_round_share"
+                android:title="Share with Friends"
+                android:id="@+id/share"
+                />
+
+            <item
+                android:title="Privacy Policy"
+                android:icon="@drawable/ic_round_lock_24"
+                android:id="@+id/privacy" />
+
+        </menu>
+
+
+    </item>
+
+
+    <item android:title="Profile" >
+
+        <menu>
+
+            <item
+                android:title="Sign Out"
+                android:icon="@drawable/ic_round_login_24"
+                android:id="@+id/logout_ham" />
+
+        </menu>
+
+
+    </item>
+
+
+
+
+</menu>

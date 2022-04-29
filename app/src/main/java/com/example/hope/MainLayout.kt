@@ -8,10 +8,13 @@ import android.view.WindowManager
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
 import android.widget.ImageView
+import androidx.appcompat.app.ActionBarDrawerToggle
+import androidx.drawerlayout.widget.DrawerLayout
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
+import com.google.android.material.navigation.NavigationView
 import com.google.firebase.auth.FirebaseAuth
 
 class MainLayout : AppCompatActivity() {
@@ -21,6 +24,7 @@ class MainLayout : AppCompatActivity() {
     private val rotateClose: Animation by lazy {AnimationUtils.loadAnimation(this,R.anim.rotate_close_anim)}
     private val fromBottom: Animation by lazy {AnimationUtils.loadAnimation(this,R.anim.from_bottom_anim)}
     private val toBottom: Animation by lazy {AnimationUtils.loadAnimation(this,R.anim.to_bottom_anim)}
+    lateinit var toogle : ActionBarDrawerToggle
 
         private var clicked = false
     val add_btn : FloatingActionButton
@@ -44,7 +48,12 @@ class MainLayout : AppCompatActivity() {
         val navController = findNavController(R.id.fragmentContainerView)
         bottomNavView.setupWithNavController(navController)
 
+//         val drawerLayout = findViewById<DrawerLayout>(R.id.drawer)
+//        val navView : NavigationView = findViewById(R.id.nav_view)
 
+//        toogle = ActionBarDrawerToggle(this,drawerLayout,R.string.open,R.string.close)
+//        drawerLayout.addDrawerListener(toogle)
+//        toogle.syncState()
 
 
 
@@ -60,7 +69,8 @@ class MainLayout : AppCompatActivity() {
         }
 
         raiseReqBtn.setOnClickListener {
-
+            val intent = Intent(this, Raise_BloodRequest::class.java)
+            startActivity(intent)
         }
 
         selfAssesBtn.setOnClickListener {

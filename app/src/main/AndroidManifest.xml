@@ -13,6 +13,9 @@
             android:name=".AppointmentSchedule"
             android:exported="true" />
         <activity
+            android:name=".Raise_BloodRequest"
+            android:exported="true" />
+        <activity
             android:name=".ResultSAneg"
             android:exported="false" />
         <activity
